@@ -14,5 +14,9 @@ section {
     margin-right: 5%;
 }
 img{
-    height: 80px;
+    height: 200px;
+}
+.categoria-videos{
+    display: flex;
+
 }
